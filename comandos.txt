@@ -12,3 +12,4 @@ npx sequelize-cli seed:generate --name demo-pessoa
 
 //carrega todas as seeder
 npx sequelize-cli db:seed:all
+
